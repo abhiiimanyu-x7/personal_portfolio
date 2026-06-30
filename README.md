@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Snake contribution graph -->
+copy this for your use!
 ![synthwave gif](https://github.com/abhicodes07/abhicodes07/blob/main/gifs/nerd.gif)
 
 
